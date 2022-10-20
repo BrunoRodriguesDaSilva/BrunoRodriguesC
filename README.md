@@ -1,11 +1,12 @@
 <h1 align="left">Olá meu nome é Bruno Rodrigues da Silva</h1>
-___________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________
 <img src="https://s0.smartresize.com/wallpaper/963/804/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg"/>
 
 ###
 <h1>Agora um pouco mais sobre mim</h1>
-___________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________
 <p align="left">Eu sou formado em Analise e Desenvolvimento de Sistemas (UNIP)<br>Sou de Osasco - SP<br>atualmente não estou atuando profissionalmente na área de programação mas tenho um grande desejo de ser programador e irei com tudo em busca do meu sonho</p>
+_______________________________________________________________________________________________________________________________________________________
 
 <p align="left">Aqui em baixo segue o link do meu Linkedin e do meu email para contato</p>
 
@@ -22,9 +23,9 @@ ________________________________________________________________________________
 ###
   
 <p align="left">Aqui esta as tecnologias que eu conheço e estou estudando no momento</p>
-___________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________
 <div align="left">
-  <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" />
+  <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" height="40" width="52" alt="Git logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="52" alt="Html5 logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="52" alt="css logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" width="52" alt="JavaScript logo"  />
