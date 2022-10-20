@@ -1,12 +1,12 @@
 <h1 align="left">Olá meu nome é Bruno Rodrigues da Silva</h1>
-_______________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________
 <img src="https://s0.smartresize.com/wallpaper/963/804/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg"/>
 
 ###
 <h1>Agora um pouco mais sobre mim</h1>
-_______________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________
 <p align="left">Eu sou formado em Analise e Desenvolvimento de Sistemas (UNIP)<br>Sou de Osasco - SP<br>atualmente não estou atuando profissionalmente na área de programação mas tenho um grande desejo de ser programador e irei com tudo em busca do meu sonho</p>
-_______________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________
 
 <p align="left">Aqui em baixo segue o link do meu Linkedin e do meu email para contato</p>
 
@@ -21,8 +21,8 @@ ________________________________________________________________________________
 </div>
 
 ###
-_______________________________________________________________________________________________________________________________________________________
-  
+
+_________________________________________________________________________________________________________________________________________________
 <p align="left">Aqui esta as tecnologias que eu conheço e estou estudando no momento</p>
 
 <div align="left">
@@ -37,8 +37,9 @@ ________________________________________________________________________________
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false&username=BrunoRodriguesC" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&username=BrunoRodriguesC" height="148" alt="languages graph"  />
+  <a href="https://github.com/BrunoRodriguesC">
+  <img width="48.3%" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false&username=BrunoRodriguesC"  />
+  <img width="47.7%" src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&username=BrunoRodriguesC" />
 </div>
 
 ###
