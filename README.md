@@ -40,9 +40,9 @@ ________________________________________________________________________________
 ###
 
 <div align="center">
-  <a href="https://github.com/BrunoRodriguesC">
-  <img width="48.3%" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false&username=BrunoRodriguesC"  />
-  <img width="47.7%" src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&username=BrunoRodriguesC" />
+  <a href="https://github.com/BrunoRodriguesDaSilva">
+  <img width="48.3%" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false&username=BrunoRodriguesDaSilva"  />
+  <img width="47.7%" src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&username=BrunoRodriguesDaSilva" />
 </div>
 
 ###
