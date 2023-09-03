@@ -1,13 +1,9 @@
-<h1 align="left">Olá meu nome é Bruno Rodrigues da Silva</h1> 
-_________________________________________________________________________________________________________________________________________________
+# Olá meu nome é Bruno Rodrigues da Silva 
+
 <img src="https://s0.smartresize.com/wallpaper/963/804/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg"/>
 
-###
-<h1>Agora um pouco mais sobre mim</h1>
-_________________________________________________________________________________________________________________________________________________
-<p align="left">Eu sou formado em Analise e Desenvolvimento de Sistemas (UNIP)<br>Sou de Osasco - SP<br>atualmente não estou atuando profissionalmente na área de programação mas tenho um grande desejo de ser programador e irei com tudo em busca do meu sonho</p>
-_________________________________________________________________________________________________________________________________________________
-
+## <h1>Agora um pouco mais sobre mim</h1>
+<p>Formado em Analise e Desenvolvimento de Sistemas (UNIP) <br> Sou de Osasco - SP <br> Estou altuamente terminando meu curso de Front-end e Back-end pela Ebac</p>
 <p align="left">Aqui em baixo segue o link do meu Linkedin e do meu email para contato</p>
 
 ###
@@ -33,8 +29,9 @@ ________________________________________________________________________________
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="52" alt="Html5 logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="52" alt="css logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" width="52" alt="JavaScript logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="40" width="52" alt="typescript logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" width="52" alt="react logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
 </div>
 
 ###
