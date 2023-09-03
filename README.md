@@ -1,6 +1,6 @@
 # Olá meu nome é Bruno Rodrigues da Silva 
 
-<img src="https://s0.smartresize.com/wallpaper/963/804/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg"/>
+<img src="https://c4.wallpaperflare.com/wallpaper/39/346/426/digital-art-men-city-futuristic-night-hd-wallpaper-preview.jpg"/>
 
 ## <h1>Agora um pouco mais sobre mim</h1>
 <p>Formado em Analise e Desenvolvimento de Sistemas (UNIP) <br> Sou de Osasco - SP <br> Estou altuamente terminando meu curso de Front-end e Back-end pela Ebac</p>
