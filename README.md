@@ -31,6 +31,7 @@ ________________________________________________________________________________
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" width="52" alt="JavaScript logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="40" width="52" alt="typescript logo"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" width="52" alt="react logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" heigth="40" width="52" alt="vue logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
 </div>
 
