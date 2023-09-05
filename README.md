@@ -11,6 +11,7 @@
 <div align="left">
   <a href=mailto:brunochh@outlook.com target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/bruno-rodrigues-da-silva-abb86a1b8/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
