@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 <div align="center">
   <a href="https://github.com/BrunoRodriguesDaSilva">
-  <img width="48.3%" src="https://github-readme-stats.vercel.app/api?username=BrunoRodriguesDaSilva&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> 
+  <img width="48.3%" src="https://github-readme-stats.vercel.app/api?username=BrunoRodriguesDaSilva&theme=aura&show_icons=true"/> 
   <img width="47.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRodriguesDaSilva&layout=compact&langs_count=6&theme=aura"/> 
 </div> 
 
